@@ -1,3 +1,5 @@
+const sinon = require('sinon')
+
 describe('index.js', function () {
   const drivers = [
     { name: 'Bobby',   hometown: 'Pittsburgh',  revenue: 3000 },
